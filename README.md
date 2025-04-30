@@ -9,4 +9,4 @@ Chaque projet inclura une documentation expliquant les concepts abordés et les 
 | Labo  | Notes |
 |-------|-------|
 | Labo 1|     6  |
-| Labo 1|     4.5  |
+| Labo 2|     4.5  |
